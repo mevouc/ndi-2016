@@ -1,4 +1,4 @@
-﻿\titlepage
+\titlepage
 
 ## Overview
 \tableofcontents

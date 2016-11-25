@@ -14,6 +14,6 @@ view:
 	zathura --fork slides.pdf 
 
 clean:
-	rm -f {./,./parts/,./src/}*.{aux,log,nav,toc,snm,pdf,out,png}
+	$(RM) {./,./parts/,./src/}*.{aux,log,nav,toc,snm,pdf,out,png}
 
 .PHONY: all pdf view clean
