@@ -58,7 +58,7 @@ void Floodfill(Node node)
 
 ## Formula One
 
-Bézier test 1 image
+![Merci stalai_a](img/test1.jpg)
 
 ## Bézier curves
 
@@ -68,7 +68,7 @@ Bézier test 1 image
 
 ## Example
 
-![eustaod](imgbezier.jpg)
+![Quadratic Bézier curve](img/bezier.png)
 
 
 
