@@ -63,6 +63,14 @@ Bézier test 1 image
 ## Bézier curves
 
 ### Principle and purpose
+- Create smooth curves
+- Represent a complex fonction using a set of control points
+
+## Example
+
+![eustaod](imgbezier.jpg)
+
+
 
 # Quadtrees
 
